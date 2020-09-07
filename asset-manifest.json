@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/www.logsword.github.io/movie-finder/static/css/main.e82f065f.chunk.css",
-    "main.js": "/www.logsword.github.io/movie-finder/static/js/main.d32a1e0a.chunk.js",
-    "main.js.map": "/www.logsword.github.io/movie-finder/static/js/main.d32a1e0a.chunk.js.map",
-    "runtime-main.js": "/www.logsword.github.io/movie-finder/static/js/runtime-main.f38424e5.js",
-    "runtime-main.js.map": "/www.logsword.github.io/movie-finder/static/js/runtime-main.f38424e5.js.map",
-    "static/js/2.0179da13.chunk.js": "/www.logsword.github.io/movie-finder/static/js/2.0179da13.chunk.js",
-    "static/js/2.0179da13.chunk.js.map": "/www.logsword.github.io/movie-finder/static/js/2.0179da13.chunk.js.map",
-    "index.html": "/www.logsword.github.io/movie-finder/index.html",
-    "precache-manifest.e260ce247f8d5187fbe6fd07eea7f9f9.js": "/www.logsword.github.io/movie-finder/precache-manifest.e260ce247f8d5187fbe6fd07eea7f9f9.js",
-    "service-worker.js": "/www.logsword.github.io/movie-finder/service-worker.js",
-    "static/css/main.e82f065f.chunk.css.map": "/www.logsword.github.io/movie-finder/static/css/main.e82f065f.chunk.css.map",
-    "static/js/2.0179da13.chunk.js.LICENSE.txt": "/www.logsword.github.io/movie-finder/static/js/2.0179da13.chunk.js.LICENSE.txt"
+    "main.css": "/movie-finder/static/css/main.e82f065f.chunk.css",
+    "main.js": "/movie-finder/static/js/main.87a5a55d.chunk.js",
+    "main.js.map": "/movie-finder/static/js/main.87a5a55d.chunk.js.map",
+    "runtime-main.js": "/movie-finder/static/js/runtime-main.2b925a39.js",
+    "runtime-main.js.map": "/movie-finder/static/js/runtime-main.2b925a39.js.map",
+    "static/js/2.0179da13.chunk.js": "/movie-finder/static/js/2.0179da13.chunk.js",
+    "static/js/2.0179da13.chunk.js.map": "/movie-finder/static/js/2.0179da13.chunk.js.map",
+    "index.html": "/movie-finder/index.html",
+    "precache-manifest.1f553901e008e86b0b83b747be7b028e.js": "/movie-finder/precache-manifest.1f553901e008e86b0b83b747be7b028e.js",
+    "service-worker.js": "/movie-finder/service-worker.js",
+    "static/css/main.e82f065f.chunk.css.map": "/movie-finder/static/css/main.e82f065f.chunk.css.map",
+    "static/js/2.0179da13.chunk.js.LICENSE.txt": "/movie-finder/static/js/2.0179da13.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f38424e5.js",
+    "static/js/runtime-main.2b925a39.js",
     "static/js/2.0179da13.chunk.js",
     "static/css/main.e82f065f.chunk.css",
-    "static/js/main.d32a1e0a.chunk.js"
+    "static/js/main.87a5a55d.chunk.js"
   ]
 }
